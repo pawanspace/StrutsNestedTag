@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/nwagCommercial/!svn/ver/91883/opoe/branches/Migration_WAS8_history/SubmissionWeb/WebContent/WEB-INF/tld
+END
+struts-logic-el.tld
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/nwagCommercial/!svn/ver/91883/opoe/branches/Migration_WAS8_history/SubmissionWeb/WebContent/WEB-INF/tld/struts-logic-el.tld
+END
+struts-template.tld
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/nwagCommercial/!svn/ver/91883/opoe/branches/Migration_WAS8_history/SubmissionWeb/WebContent/WEB-INF/tld/struts-template.tld
+END
+navigation.tld
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/nwagCommercial/!svn/ver/91883/opoe/branches/Migration_WAS8_history/SubmissionWeb/WebContent/WEB-INF/tld/navigation.tld
+END
+struts-logic.tld
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/nwagCommercial/!svn/ver/91883/opoe/branches/Migration_WAS8_history/SubmissionWeb/WebContent/WEB-INF/tld/struts-logic.tld
+END
+struts-wml.tld
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/nwagCommercial/!svn/ver/91883/opoe/branches/Migration_WAS8_history/SubmissionWeb/WebContent/WEB-INF/tld/struts-wml.tld
+END
+struts-tiles.tld
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/nwagCommercial/!svn/ver/91883/opoe/branches/Migration_WAS8_history/SubmissionWeb/WebContent/WEB-INF/tld/struts-tiles.tld
+END
+struts-html-el.tld
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/nwagCommercial/!svn/ver/91883/opoe/branches/Migration_WAS8_history/SubmissionWeb/WebContent/WEB-INF/tld/struts-html-el.tld
+END
+struts-nested.tld
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/nwagCommercial/!svn/ver/91883/opoe/branches/Migration_WAS8_history/SubmissionWeb/WebContent/WEB-INF/tld/struts-nested.tld
+END
+struts-html.tld
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/nwagCommercial/!svn/ver/91883/opoe/branches/Migration_WAS8_history/SubmissionWeb/WebContent/WEB-INF/tld/struts-html.tld
+END
+struts-bean.tld
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/nwagCommercial/!svn/ver/91883/opoe/branches/Migration_WAS8_history/SubmissionWeb/WebContent/WEB-INF/tld/struts-bean.tld
+END
+struts-chtml.tld
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/nwagCommercial/!svn/ver/91883/opoe/branches/Migration_WAS8_history/SubmissionWeb/WebContent/WEB-INF/tld/struts-chtml.tld
+END

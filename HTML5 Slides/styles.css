@@ -1,0 +1,46 @@
+.slides{
+	background-color: black;
+    bottom: 0;
+    display: block;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    overflow: hidden;
+    right: 0;
+}
+
+
+.slide {
+    background-color: #527272;
+    border-radius: 35px 35px 35px 35px;
+    color: #FFFFFF;
+    height: 80%;
+    text-align: center;
+    width: 80%;
+    display: inline-block;
+    overflow: hidden;
+    position: absolute;
+    z-index: 200;
+}
+
+
+.current {
+    margin: 40px 140px;
+}
+
+.next{
+	margin: 40px  0px 20px 1220px;
+}
+
+.previous{
+	margin: 40px 1400px 20px  -994px;
+}
+
+.hidden{
+	display: none;
+}
+
+.controls{
+	position: relative;
+}
